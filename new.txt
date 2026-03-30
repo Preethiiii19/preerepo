@@ -1,2 +1,0 @@
-My first class in Github
-Created a new branch within main
